@@ -9,3 +9,4 @@ Spelets mål: Nå 50 poäng före motståndaren
 5. Efter att a tryckt hold knappen blir den motståndarens tur 
 6. Om spelaren slår en 1:a så försvinner alla osparade poäng och det blir motståndarens tur
 7. Spelet fortsätter tills en av spelarna når 50 poäng, då vinner den spelaren
+<!-- här skrev max o luis tillsammans-->
